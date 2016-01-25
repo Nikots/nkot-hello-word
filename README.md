@@ -1,2 +1,2 @@
 # nkot-hello-word
-First repo
+Nothing else matters. 
